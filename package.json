@@ -1,0 +1,9 @@
+{
+  "name": "art-stories",
+  "version": "0.0.1",
+  "description": "an open-source web application for museums",
+  "main": "index.js",
+  "repository": "https://github.com/carlpeaslee/art-stories.git",
+  "author": "Carl Peaslee <cpeaslee@gmail.com>",
+  "license": "MIT"
+}
